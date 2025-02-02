@@ -63,7 +63,7 @@ Morgan is designed to be run from the command line, providing a straightforward 
 Here is an example of a typical usage scenario,
 
 ```python
-python morgan.py https://example.com --download --timeout 10 --filter "API Key" --entropy 5
+python Morgan.py https://example.com --download --timeout 10 --filter "API Key" --entropy 5
 ```
 
 This command will,
